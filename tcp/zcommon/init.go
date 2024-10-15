@@ -4,8 +4,8 @@ import (
 	"encoding/binary"
 	"time"
 
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/logx"
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/tcp/utils"
+	"github.com/0829why/svrframe/logx"
+	"github.com/0829why/svrframe/tcp/utils"
 
 	"golang.org/x/time/rate"
 )

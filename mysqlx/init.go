@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/config"
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/logx"
+	"github.com/0829why/svrframe/config"
+	"github.com/0829why/svrframe/logx"
 
 	_ "github.com/go-sql-driver/mysql"
 )

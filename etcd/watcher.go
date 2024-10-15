@@ -6,9 +6,9 @@ import (
 
 	clientv3 "go.etcd.io/etcd/client/v3"
 	"go.etcd.io/etcd/client/v3/naming/endpoints"
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/config"
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/constants"
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/logx"
+	"github.com/0829why/svrframe/config"
+	"github.com/0829why/svrframe/constants"
+	"github.com/0829why/svrframe/logx"
 )
 
 var watcher *Watcher

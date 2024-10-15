@@ -3,8 +3,8 @@ package util_rpc
 import (
 	"net"
 
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/constants"
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/logx"
+	"github.com/0829why/svrframe/constants"
+	"github.com/0829why/svrframe/logx"
 
 	"google.golang.org/grpc"
 )

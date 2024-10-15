@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/helper"
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/logx"
+	"github.com/0829why/svrframe/helper"
+	"github.com/0829why/svrframe/logx"
 
 	"github.com/gin-gonic/gin"
 )

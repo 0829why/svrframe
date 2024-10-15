@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/constants"
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/helper"
+	"github.com/0829why/svrframe/constants"
+	"github.com/0829why/svrframe/helper"
 )
 
 type ServiceConfig struct {

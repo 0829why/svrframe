@@ -5,7 +5,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/logx"
+	"github.com/0829why/svrframe/logx"
 )
 
 type ITimerItem interface {

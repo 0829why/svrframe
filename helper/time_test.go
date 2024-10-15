@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/constants"
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/helper"
+	"github.com/0829why/svrframe/constants"
+	"github.com/0829why/svrframe/helper"
 )
 
 func strToUTCTimestamp(datetime string) uint32 {

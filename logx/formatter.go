@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/constants"
+	"github.com/0829why/svrframe/constants"
 
 	"github.com/sirupsen/logrus"
 )

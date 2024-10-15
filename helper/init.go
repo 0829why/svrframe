@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/logx"
+	"github.com/0829why/svrframe/logx"
 
 	filter "github.com/antlinker/go-dirtyfilter"
 	"github.com/antlinker/go-dirtyfilter/store"

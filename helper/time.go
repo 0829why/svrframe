@@ -3,7 +3,7 @@ package helper
 import (
 	"time"
 
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/constants"
+	"github.com/0829why/svrframe/constants"
 )
 
 const Second_one_day = uint32(24 * 3600)

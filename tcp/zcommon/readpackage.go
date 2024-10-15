@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/tcp/utils"
+	"github.com/0829why/svrframe/tcp/utils"
 )
 
 type ReadPackage struct {

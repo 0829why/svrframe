@@ -3,7 +3,7 @@ package util_rpc
 import (
 	"time"
 
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/constants"
+	"github.com/0829why/svrframe/constants"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/keepalive"

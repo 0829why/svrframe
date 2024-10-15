@@ -7,7 +7,7 @@ import (
 	"runtime/debug"
 	"strconv"
 
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/constants"
+	"github.com/0829why/svrframe/constants"
 
 	rotatelogs "github.com/lestrrat-go/file-rotatelogs"
 	"github.com/sirupsen/logrus"

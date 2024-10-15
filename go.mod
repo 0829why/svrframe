@@ -1,4 +1,4 @@
-module oversea-git.hotdogeth.com/poker/slots/svrframe
+module github.com/0829why/svrframe
 
 go 1.20
 

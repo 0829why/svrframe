@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"strings"
 
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/config"
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/logx"
+	"github.com/0829why/svrframe/config"
+	"github.com/0829why/svrframe/logx"
 
 	"github.com/jmoiron/sqlx"
 )

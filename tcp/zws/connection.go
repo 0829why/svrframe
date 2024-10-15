@@ -8,12 +8,12 @@ import (
 	"time"
 
 	"google.golang.org/protobuf/reflect/protoreflect"
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/constants"
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/helper"
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/logx"
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/tcp/utils"
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/tcp/zcommon"
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/tcp/ziface"
+	"github.com/0829why/svrframe/constants"
+	"github.com/0829why/svrframe/helper"
+	"github.com/0829why/svrframe/logx"
+	"github.com/0829why/svrframe/tcp/utils"
+	"github.com/0829why/svrframe/tcp/zcommon"
+	"github.com/0829why/svrframe/tcp/ziface"
 
 	"github.com/gorilla/websocket"
 	"golang.org/x/time/rate"

@@ -27,6 +27,6 @@ go get -u github.com/gorilla/websocket
 :rem go get -u code.google.com/p/go.net/websocket
 go get -u golang.org/x/time/rate
 
-go get -u oversea-git.hotdogeth.com/poker/slots/svrframe
+go get -u github.com/0829why/svrframe
 
 :rem http://127.0.0.1:2379/version

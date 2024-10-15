@@ -11,7 +11,7 @@
 package utils
 
 import (
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/tcp/ziface"
+	"github.com/0829why/svrframe/tcp/ziface"
 )
 
 /*

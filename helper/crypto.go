@@ -12,7 +12,7 @@ import (
 	"encoding/hex"
 	"io"
 
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/logx"
+	"github.com/0829why/svrframe/logx"
 )
 
 func GetHmacSha1(data, key string) string {

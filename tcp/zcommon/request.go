@@ -1,7 +1,7 @@
 package zcommon
 
 import (
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/tcp/ziface"
+	"github.com/0829why/svrframe/tcp/ziface"
 )
 
 // Request 请求

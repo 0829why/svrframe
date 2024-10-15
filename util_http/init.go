@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/helper"
+	"github.com/0829why/svrframe/helper"
 )
 
 var (

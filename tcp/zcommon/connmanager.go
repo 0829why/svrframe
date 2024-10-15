@@ -4,8 +4,8 @@ import (
 	"errors"
 	"sync"
 
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/logx"
-	"oversea-git.hotdogeth.com/poker/slots/svrframe/tcp/ziface"
+	"github.com/0829why/svrframe/logx"
+	"github.com/0829why/svrframe/tcp/ziface"
 )
 
 // ConnManager 连接管理模块
