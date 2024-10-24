@@ -4,7 +4,6 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/0829why/svrframe/logx"
 	"github.com/0829why/svrframe/helper"
 )
 
@@ -18,9 +17,6 @@ func init() {
 
 func getHeadersString(c *gin.Context) string {
 	headers := map[string]string{}
-	
-	logx.InfoF("hheeaaddeerrss %v", headers);
-	
 	device_id := c.GetHeader("device_id")
 	channel := c.GetHeader("channel")
 	sysplatform := c.GetHeader("sysplatform")
