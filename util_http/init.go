@@ -17,7 +17,7 @@ func init() {
 
 func getHeadersString(c *gin.Context) string {
 	headers := map[string]string{}
-	device_id := c.GetHeader("device_id")
+	device_id := c.GetHeader("deviceid")
 	channel := c.GetHeader("channel")
 	sysplatform := c.GetHeader("sysplatform")
 	headers["device_id"] = device_id

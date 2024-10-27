@@ -70,6 +70,7 @@ func (w *Watcher) update() {
 		case <-exit_ch.Done():
 			return
 		case watchs, ok := <-w.watcher_ch:
+			logx.InfoF("watcher update -> watchs => %+v, ok => $+v", watchs, ok)
 			if ok && len(watchs) > 0 {
 				for _, watch := range watchs {
 					logx.DebugF("watch => %+v", watch)
